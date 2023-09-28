@@ -1,0 +1,15 @@
+C:\work\InfDef\CryptoMethods\CryptoMethods\bin\Debug\net7.0\CryptoMethods.exe
+C:\work\InfDef\CryptoMethods\CryptoMethods\bin\Debug\net7.0\CryptoMethods.deps.json
+C:\work\InfDef\CryptoMethods\CryptoMethods\bin\Debug\net7.0\CryptoMethods.runtimeconfig.json
+C:\work\InfDef\CryptoMethods\CryptoMethods\bin\Debug\net7.0\CryptoMethods.dll
+C:\work\InfDef\CryptoMethods\CryptoMethods\bin\Debug\net7.0\CryptoMethods.pdb
+C:\work\InfDef\CryptoMethods\CryptoMethods\obj\Debug\net7.0\CryptoMethods.csproj.AssemblyReference.cache
+C:\work\InfDef\CryptoMethods\CryptoMethods\obj\Debug\net7.0\CryptoMethods.GeneratedMSBuildEditorConfig.editorconfig
+C:\work\InfDef\CryptoMethods\CryptoMethods\obj\Debug\net7.0\CryptoMethods.AssemblyInfoInputs.cache
+C:\work\InfDef\CryptoMethods\CryptoMethods\obj\Debug\net7.0\CryptoMethods.AssemblyInfo.cs
+C:\work\InfDef\CryptoMethods\CryptoMethods\obj\Debug\net7.0\CryptoMethods.csproj.CoreCompileInputs.cache
+C:\work\InfDef\CryptoMethods\CryptoMethods\obj\Debug\net7.0\CryptoMethods.dll
+C:\work\InfDef\CryptoMethods\CryptoMethods\obj\Debug\net7.0\refint\CryptoMethods.dll
+C:\work\InfDef\CryptoMethods\CryptoMethods\obj\Debug\net7.0\CryptoMethods.pdb
+C:\work\InfDef\CryptoMethods\CryptoMethods\obj\Debug\net7.0\CryptoMethods.genruntimeconfig.cache
+C:\work\InfDef\CryptoMethods\CryptoMethods\obj\Debug\net7.0\ref\CryptoMethods.dll
