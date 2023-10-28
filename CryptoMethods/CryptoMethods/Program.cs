@@ -1,5 +1,7 @@
 ﻿using System;
+using System.Collections.ObjectModel;
 using CryptoMethods.CryptoMethods;
+using CryptoMethods.Sha256;
 
 namespace CryptoMethods // Note: actual namespace depends on the project name.
 {
@@ -7,6 +9,16 @@ namespace CryptoMethods // Note: actual namespace depends on the project name.
     {
         public static void Main(string[] args)
         {
+            var mode = Console.ReadLine();
+
+            if (mode == "hash")
+            {
+
+                ReadOnlyCollection<byte> hash = HashSha256.HashFile(File.OpenRead("test.txt"));
+                Console.WriteLine("{0}", Util.ArrayToString(hash));
+                return;
+            }
+            
             // считывание с консоли
             var encryptionString = Console.ReadLine();
             while (true)
