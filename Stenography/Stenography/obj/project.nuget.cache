@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "6Pf8utwwiZ7sk2hhcl80jOaX/sFDtYWtTc9WtT1+BUKKbFSrwqliHZA2cNl0qTbxj9j5VxRaZOYhV6uXmOeeow==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Timur\\Desktop\\Stenography\\Stenography\\Stenography.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Timur\\.nuget\\packages\\microsoft.win32.systemevents\\8.0.0-rc.2.23479.6\\microsoft.win32.systemevents.8.0.0-rc.2.23479.6.nupkg.sha512",
+    "C:\\Users\\Timur\\.nuget\\packages\\system.drawing.common\\8.0.0-rc.2.23479.14\\system.drawing.common.8.0.0-rc.2.23479.14.nupkg.sha512"
+  ],
+  "logs": []
+}
